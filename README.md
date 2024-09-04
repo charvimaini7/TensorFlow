@@ -1,3 +1,3 @@
 # TensorFlow
-Learned tensorflow
-Created graphs using the Titanic dataset
+<p> Learned Tensorflow</p>
+<P>Created graphs using the Titanic dataset </P>
